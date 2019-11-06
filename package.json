@@ -17,6 +17,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",
     "react": "^16.11.0",
